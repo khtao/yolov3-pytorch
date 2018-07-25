@@ -1,0 +1,6 @@
+classes= 2
+openslide=/home/khtao/data/openslide_data/original_data
+pos_data=/home/khtao/data/DataSetv2/yolo/yolo_608
+names=data/solo.names
+backup=backup/
+eval=solo
